@@ -1,2 +1,3 @@
 # synopsys_internship_diary
-Daily entries for work
+
+Contains daily entries to keep track of the work I do and new things I learn.
